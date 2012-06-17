@@ -6,16 +6,16 @@ Please feel free to expand and contribute
 
 Interview Guides
 ----------------
-Interviewer 
+[Interviewer](https://github.com/hibri/pair-programming-interview-resources/wiki/Interviewer-Guide) 
 
-Candidate
+[Candidate] (https://github.com/hibri/pair-programming-interview-resources/wiki/Candidate-Guide)
 
-Observer
+[Observer] (https://github.com/hibri/pair-programming-interview-resources/wiki/Observer-Guide)
 
 
 Interview Exercises
 -------------------
 
-The Checkout Kata
+[The Checkout Kata] (https://github.com/hibri/pair-programming-interview-resources/wiki/The-Even-Fibonacci-Sum-Calculator)
 
-The Even Fibonacci Sum Calculator
+[The Even Fibonacci Sum Calculator] (https://github.com/hibri/pair-programming-interview-resources/wiki/The-Even-Fibonacci-Sum-Calculator)

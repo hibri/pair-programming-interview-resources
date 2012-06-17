@@ -7,7 +7,9 @@ Please feel free to expand and contribute
 Interview Guides
 ----------------
 Interviewer 
+
 Candidate
+
 Observer
 
 
@@ -15,4 +17,5 @@ Interview Exercises
 -------------------
 
 The Checkout Kata
+
 The Even Fibonacci Sum Calculator

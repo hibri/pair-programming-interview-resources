@@ -16,6 +16,8 @@ Interview Guides
 Interview Exercises
 -------------------
 
-[The Checkout Kata] (https://github.com/hibri/pair-programming-interview-resources/wiki/The-Even-Fibonacci-Sum-Calculator)
+[The Checkout Kata] (https://github.com/hibri/pair-programming-interview-resources/wiki/The-Checkout-Kata)
+
+[The Roman Numeral Kata] (https://github.com/hibri/pair-programming-interview-resources/wiki/The-Roman-Numeral-Kata)
 
 [The Even Fibonacci Sum Calculator] (https://github.com/hibri/pair-programming-interview-resources/wiki/The-Even-Fibonacci-Sum-Calculator)
